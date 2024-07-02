@@ -1,3 +1,10 @@
+# About this project
+
+Project created as a requisite for DIO React course, the App was made to search for repositories in git hub by connecting to it's API. On the input you should write "githubUser/repositoryName" eg: guikrieck/React-Dio-Wiki.
+
+As you search for a repository the App will connect in the API, if it finds the repository it will check if the repo is a repeated one, if it is you'll get an alert saying it's repeated, if not it'll add the repo in the list. On the other hand, if the App don't find the repo it will give an alert. 
+When you have a repo added you can click on the link "Ver repositório" to check the repository on git hub page or you can click on the "Remover" button to remove the repo from the list.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
